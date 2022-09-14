@@ -1,3 +1,2 @@
-# SampleProject
-sampleproject for learning 
-test
+# Sunflower App Automation
+Details of Sunflower App Automation
